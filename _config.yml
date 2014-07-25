@@ -1,0 +1,12 @@
+# Site settings
+title: The home of syrnick (a.k.a. Alexander Sorokin)
+email: syrnick@robotsfor.us
+description: "It's time to collect bits and pieces here"
+baseurl: ""
+url: "http://syrnick.github.io"
+twitter_username: syrnick
+github_username:  syrnick
+
+# Build settings
+markdown: kramdown
+permalink: pretty
